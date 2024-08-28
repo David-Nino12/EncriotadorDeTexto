@@ -114,16 +114,16 @@ main{
     
      main{
         flex-direction: column;
-        margin-left: 0;
+        margin-left: 50;
         align-items: center;
         padding: auto;
     }
     
     .text-area{
         width: 90%;
-        margin-left: 0;
+        margin-left: 10;
         margin-top: 20px;
-        padding-left: 20px;
+        padding-left: 2px;
     }
 
     .mensaje{
